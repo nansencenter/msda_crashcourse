@@ -1,2 +1,1 @@
-# msda_crashcourse
-Crash Course session on multiscale data assimilation
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/nansencenter/msda_crashcourse/blob/Colab)  (requires Google login)
